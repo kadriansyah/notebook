@@ -1,0 +1,31 @@
+Cara Mengukur GCS untuk Menilai Tingkat Kesadaran
+Glasgow Coma Scale atau GCS adalah skala yang dipakai untuk mengetahui tingkat kesadaran seseorang. Dahulu, GCS hanya dipakai untuk mengetahui tingkat kesadaran orang yang mengalami cedera kepala. Namun, saat ini GCS juga digunakan untuk menilai tingkat kesadaran saat memberikan pertolongan darurat medis.
+Tingkat kesadaran seseorang dapat dinilai dari tiga aspek yaitu mata, suara (kemampuan bicara), dan gerakan tubuh. Sebelum membahas cara mengetahui tingkat kesadaran dengan GCS, mari kita bahas terlebih dahulu beberapa penyebab yang membuat kesadaran seseorang menurun.Penyebab Turunnya Tingkat Kesadaran Seseorang
+Otak merupakan organ utama yang bertugas menjaga kesadaran. Agar bekerja dengan baik, otak membutuhkan asupan oksigen dan glukosa yang cukup. Minuman seperti kopi, cokelat, teh, dan minuman energi yang mengandung kafein, memiliki efek stimulan pada otak, yang dapat membuat seseorang lebih terjaga. Sebaliknya, alkohol, dan obat-obatan tertentu, seperti obat penenang, obat penghilang rasa sakit, obat epilepsi, atau obat stroke, dapat memberikan efek mengantuk dan mengurangi tingkat kesadaran.
+Kondisi tertentu seperti demensia (pikun), cedera kepala berat, syok, penyakit jantung, penyakit hati, gagal ginjal, hipoglikemia, dan stroke juga bisa merusak sel-sel otak sehingga memengaruhi kesadaran seseorang. Penurunan tingkat kesadaran terparah adalah ketika seseorang dalam kondisi koma.
+Cara Mengukur Tingkat Kesadaran
+Tingkat kesadaran tertinggi atau bisa dibilang terjaga sepenuhnya, berada di skala 15. Sementara yang terendah atau yang dikatakan koma, berada di skala 3.
+Untuk mengetahuinya skala GCS, tim medis akan melakukan pengecekan sebagai berikut:
+Mata
+Nilai GCS yang dievaluasi melalui pemeriksaan mata:
+- Jika tim medis meminta membuka mata dan merangsang seseorang dengan nyeri tapi mata orang tersebut tidak bereaksi dan tetap terpejam, maka poin GCS yang didapat yaitu 1.
+- Jika mata terbuka akibat rangsang nyeri saja, poin GCS yang didapat yaitu 2.
+- Jika mata seseorang terbuka hanya dengan mendengar suara atau dapat mengikuti perintah untuk membuka mata, poin GCS yang didapat yaitu 3.
+- Jika mata terbuka secara spontan tanpa perintah atau sentuhan, maka poin yang didapat yaitu 4.
+Suara
+Nilai GCS yang dievaluasi dalam pemeriksaan respons suara:
+- Jika seseorang tidak mengeluarkan suara sedikitpun, meski sudah dipanggil atau dirangsang nyeri, maka orang tersebut mendapat poin 1.
+- Jika suara yang keluar seperti rintihan tanpa kata-kata, poin yang didapat yaitu 2.
+- Seseorang dapat berkomunikasi tapi tidak jelas atau hanya mengeluarkan kata-kata tapi bukan kalimat yang jelas, poin GCS yang didapat yaitu 3.
+- Jika seseorang dapat menjawab pertanyaan dari tim medis tapi pasien seperti kebingungan atau percakapan tidak lancar, maka poin yang didapat adalah 4.
+- Seseorang dapat menjawab semua pertanyaan yang diajukan dengan benar dan sadar penuh terhadap orientasi lokasi, lawan bicara, tempat, dan waktu, maka poin yang didapat yaitu 5.
+Gerakan
+Nilai GCS yang dievaluasi dalam pemeriksaan respons gerakan:
+- Tidak ada respons gerakan tubuh walau sudah diperintahkan atau diberi rangsangan nyeri, poin GCS yang didapat yaitu 1.
+- Seseorang hanya dapat mengepalkan jari tangan dan kaki, atau menekuk kaki dan tangan saat diberi rangsangan nyeri, poin yang didapatkan adalah 2.
+- Seseorang hanya menekuk lengan dan memutar bahu saat diberi rangsangan nyeri, poin GCS yang didapat yaitu 3.
+- Seseorang dapat menggerakkan tubuh menjauhi sumber nyeri ketika dirangsang nyeri, poin GCS yang diperoleh yaitu 4. Contohnya, seseorang dapat menjauhkan tangan ketika dicubit.
+- Bagian tubuh yang tersakiti dapat bergerak dan orang yang diperiksa dapat menunjukkan lokasi nyeri, poin GCS yang didapat yaitu 5. Contohnya ketika tangan diberi rangsangan nyeri, tangan akan mengangkat.
+- Seseorang dapat melakukan gerakan ketika diperintahkan, poin GCS yang didapatkan yaitu 6.
+Skala GCS didapat dari menjumlahkan tiap poin yang diperoleh dari ketiga aspek pemeriksaan di atas. Skala ini dipakai sebagai tahap awal mengevaluasi kondisi seseorang yang pingsan atau baru mengalami kecelakaan kemudian tidak sadarkan diri, sebelum diberi pertolongan lebih lanjut. Meski bisa dilakukan untuk menentukan tingkat kesadaran, GCS tidak bisa dipakai untuk mendiagnosis penyebab penurunan kesadaran atau koma.
+Sebagai penolong pertama, Anda bisa melaporkan angka GCS kepada pihak medis yang menangani selanjutnya. Perhitungan ini berguna bagi dokter sebagai dasar untuk menentukan penanganan, juga untuk menilai respons terhadap pengobatan yang diberikan.

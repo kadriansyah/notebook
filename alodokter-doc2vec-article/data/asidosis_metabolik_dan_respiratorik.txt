@@ -1,0 +1,62 @@
+Asidosis Metabolik dan Respiratorik
+Asidosis adalah kondisi yang terjadi ketika kadar asam di dalam tubuh sangat tinggi. Kondisi ini ditandai dengan beberapa gejala, misalnya napas pendek, linglung, atau sakit kepala. 
+Normalnya, pH darah di dalam darah adalah sekitar 7,4. Asidosis terjadi saat pH darah kurang dari 7,35 (asam). Hal ini berkebalikan dengan kondisi alkalosis yang terjadi saat pH darah lebih dari 7,45 (basa). Perubahan pH ini akan sangat memengaruhi fungsi dan kerja berbagai organ tubuh.Penyebab Asidosis 
+Asidosis terjadi saat keseimbangan asam-basa di dalam tubuh terganggu, sehingga kadar asam menjadi sangat tinggi. Ada 3 mekanisme yang menyebabkan munculnya asidosis, yaitu produksi asam yang berlebihan, pengeluaran asam yang terganggu, dan proses keseimbangan asam-basa di dalam tubuh yang tidak normal. Hal-hal ini akan menyebabkan terjadinya penumpukan asam di dalam tubuh.
+Ketiga mekanisme tersebut bisa disebabkan oleh adanya gangguan metabolisme asam di tubuh (asidodis metabolik) atau gangguan pada proses pertukaran oksigen dan karbon dioksida (asidosis respiratorik). Berikut adalah penjelasannya:
+Asidosis metabolik
+Kondisi ini terjadi ketika produksi asam di tubuh terlalu berlebihan atau saat ginjal tidak mampu mengeluarkan asam dari dalam tubuh. Ada beberapa jenis asidosis yang termasuk asidosis metabolik, yaitu:
+Asidosis diabetik
+Asidosis diabetik atau ketoasidosis diabetik disebabkan oleh produksi badan keton (asam) yang berlebihan. Kondisi ini terjadi saat diabetes tidak terkontrol.Asidosis laktat
+Asidosis laktat atau lactate acidosis disebabkan oleh produksi asam laktat yang berlebihan. Kondisi ini terjadi saat tubuh melakukan metabolisme anaerob (kadar oksigen rendah). Asidosis laktat dapat disebabkan oleh kanker, konsumsi alkohol yang berlebihan, gagal hati, gagal jantung, hipoglikemia dalam jangka waktu lama, sepsis, dan kelainan genetik, seperti MELAS.Asidosis hiperkloremik
+Peningkatan kadar asam dalam tubuh pada kondisi ini disebabkan oleh kehilangan natrium bikarbonat (basa) yang berlebihan dalam waktu yang lama. Kondisi ini biasanya terjadi karena diare atau muntah-muntah yang berkepanjangan.Asidosis tubulus renalis
+Kondisi ini terjadi ketika ginjal tidak dapat membuang asam melalui urine, sehingga asam terkumpul di dalam darah. Hal ini biasanya terjadi saat kerusakan ginjal disebabkan oleh penyakit autoimun atau gangguan genetik.Asidosis respiratorik
+Asidosis respiratorik juga akan meningkatkan kadar asam di dalam tubuh, namun dengan mekanisme yang berbeda. Kondisi ini disebabkan oleh gangguan pada sistem pernapasan yang meningkatkan kadar karbon dioksida di dalam darah.
+Berikut ini adalah beberapa gangguan pada sistem pernapasan yang dapat memicu asidosis respiratorik:Gangguan pada saluran pernapasan, seperti asma dan PPOK (penyakit paru obstruksi kronis)
+Gangguan pada jaringan paru, seperti fibrosis pulmonerGangguan pada tulang dada yang bisa mempengaruhi pernapasan, seperti skoliosis dan kifosisGangguan pada sistem saraf yang mempengaruhi proses pernapasan, seperti myasthenia gravis, GBS (Guillain-Barre Syndrome), dan ALS (amyotrophic lateral sclerosis)
+Penggunaan obat-obatan yang yang dapat mempengaruhi sistem pernapasan, seperti penggunaan opioid atau kombinasi obat golongan benzodiazepine dengan alkohol
+Kondisi lain yang bisa mempengaruhi pernapasan, seperti obesitas dan sleep apnea
+Gejala Asidosis
+Gejala asidosis tergantung pada penyebabnya, apakah gangguan metabolisme asam (asidosis metabolik) atau gangguan pertukaran oksigen dan karbon dioksida (asidosis respiratorik).
+Gejala asidosis metabolik dapat berupa:Napas pendek dan cepat
+Sakit kepala
+Linglung
+Mual dan muntah
+Lelah atau mengantuk
+Nafsu makan menurun
+Denyut jantung meningkat
+Sakit kuning
+Bau nafas tercium seperti aroma buahSedangkan gejala asidosis respiratorik dapat berupa:Napas pendek dan cepat
+Lelah atau mengantuk
+Pusing
+Sakit kepala
+Linglung
+GelisahJika penderita mengalami asidosis respiratorik berkembang dalam jangka waktu yang lama (kronis), gejala tidak selalu dirasakan. Namun, tanda-tanda seperti kehilangan ingatan, kesulitan tidur, dan perubahan perilaku dapat terjadi.
+Kapan harus ke dokter 
+Deteksi dan penanganan dini dapat membantu pemulihan asidosis. Oleh karena itu, segera lakukan pemeriksaan ke dokter jika Anda merasakan gejala-gejala asidosis seperti yang telah dijelaskan di atas.
+Perlu diingat bahwa asidosis adalah kondisi yang serius dan bisa berakibat fatal. Pastikan Anda segera ke rumah sakit jika mengalami kesulitan bernapas.
+Asidosis dapat dipicu oleh penyakit dan kondisi seperti diabetes, asma, PPOK. Lakukan kontrol dan pemerisaan rutin jika Anda memiliki kondisi tersebut untuk mencegah terjadinya asidosis.
+Diagnosis Asidosis
+Untuk mendiagnosis asidosis, dokter akan menanyakan gejala yang dialami pasien, obat-obatan yang sedang digunakan, serta riwayat kesehatan pasien dan keluarganya. Setelah itu, dokter akan melakukan pemeriksaan fisik secara menyeluruh pada pasien.
+Dokter juga akan melakukan tes penunjang untuk memastikan diagnosis, menentukan tingkat keparahan asidosis, dan mengetahui penyebab yang mendasarinya. Tes yang dapat dilakukan adalah:
+Tes darah, untuk menilai fungsi metabolik secara komprehensif termasuk fungsi ginjal, kadar gula, dan elektrolit.Analisa gas darah arteri, untuk mengukur kadar oksigen, karbon dioksida, dan PH dalam darah.Rontgen dada, untuk mendeteksi cedera atau gangguan lain di paru-paru.Tes fungsi paru, untuk mengetahui kondisi dan fungsi paru dan saluran pernapasan.Tes urine, untuk mendeteksi keberadaan badan keton dan kadar asam yang dibuang melalui urine.Pengobatan Asidosis
+Pengobatan asidosis akan disesuaikan dengan jenis, penyebab, serta tingkat keparahan asidosis. Berikut adalah penjelasannya:
+Asidosis metabolik 
+Pengobatan asidosis metabolik sangat tergantung pada penyebabnya. Dalam kasus asidosis hiprekloremik, dokter biasanya akan memberikan natrium bikabornat, baik dalam bentuk tablet atau cairan yang disuntikkan melalui pembuluh darah.
+Untuk asidosis tubulus renalis, dokter mungkin akan memberikan sodium sitrat dan melakukan penanganan untuk gangguan ginjal yang dialami. Sedangkan bagi penderita asidosis diabetik, akan dilakukan pemberian insulin dan bersamaan dengan cairan infus untuk menyeimbangkan kadar asam.
+Untuk penderita asidosis laktat, beberapa obat-obatan, seperti natrium bikarbonat, antibiotik, cairan infus, atau oksigen, dapat diberikan. Jika kondisi belum terlalu parah, proses detoksifikasi dapat dilakukan, khususnya bagi pasien yang mengalami keracunan obat atau alkohol.
+Asidosis respiratorik 
+Pengobatan asidosis respiratorik bertujuan untuk memperbaiki fungsi paru. Pada kasus asidosis respiratorik akut, pengobatan dilakukan dengan menangani penyebabnya. Sedangkan, untuk asidosis respiratorik kronis, penanganan biasanya dilakukan untuk mencegah kondisi bertambah parah.
+Umumnya, dokter akan memberikan antibiotik, diuretik, kortikosteroid, atau bronkodilator. Jika kondisi pasien cukup parah, dokter mungkin akan melakukan pemasangan alat bantu napas atau ventilator yang disebut continous positive airway pressure (CPAP).
+Komplikasi Asidosis
+Jika tidak diobati, asidosis berpotensi menyebabkan komplikasi berupa:Gagal ginjal
+Osteoporosis
+Gangguan otot
+Gangguan sistem endokrin
+Batu ginjal
+Keterlambatan dalam pertumbuhanPencegahan Asidosis
+Tidak semua jenis asidosis dapat dicegah. Namun, ada beberapa cara yang dapat dilakukan untuk menurunkan risiko terjadinya kondisi ini, yaitu:Menjalani pengobatan dan kontrol secara teratur jika memiliki penyakit yang dapat menyebabkan asidosis, seperti diabetes, asma, dan PPOK
+Tidak merokok
+Tidak minum minuman beralkohol
+Menjaga berat badan ideal
+Minum air putih yang cukup
+Mengonsumsi obat-obatan sesuai anjuran dokter

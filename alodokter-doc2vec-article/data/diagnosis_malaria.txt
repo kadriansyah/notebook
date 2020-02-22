@@ -1,0 +1,5 @@
+Diagnosis Malaria
+Ketika pasien datang berobat dengan gejala malaria, dokter akan menanyakan riwayat gejala tersebut dan melakukan pemeriksaan fisik. Dokter juga akan menanyakanapakah pasien tinggal di daerah yang banyak kasus malaria, atau baru saja bepergian ke daerah tersebut.
+Guna memastikan apakah pasien terserang infeksi malaria, dokter akan melakukan pemeriksaan darah yang disebut tes diagnostik cepat malaria (RDT malaria). RDTmalaria bertujuan untuk mendeteksi protein (antigen) yang bisa menjadi tanda keberadaan parasit malaria. Hasilnya dapat diketahui dalam waktu beberapa menit.
+Untuk memastikan malaria, tidak cukup dengan pemeriksaan RDT saja. Diperlukan juga pemeriksaan darah di bawah mikroskop, untuk melihat keberadaan parasit danmembedakan jenis malaria. Sampel darah bisa diambillebih dari sekali dan diambil ketika keluhan timbul.
+Dokter juga dapat melakukan tes darah lainnya, seperti uji fungsi hati atau fungsi ginjal, untuk mengetahui apakah malaria menyebabkan komplikasi ke organ lain.

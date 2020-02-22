@@ -1,0 +1,24 @@
+Sindrom CriglerNajjar
+Sindrom Crigler-Najjar adalah penyakit keturunan yang ditandai dengan tingginya kadar bilirubin indirek dalam darah. Bilirubin adalah pigmen kuning dalam darah, yang terbentuk ketika sel darah merah dipecah secara alami. Bilirubin yang pertama kali terbentuk setelah pemecahan sel darah adalah bilirubin indirek. Bilirubin indirek akan masuk ke dalam hati,dirubah menjadi bilirubin direk agar dapat dibuang melalui urine dan tinja.Gejala Sindrom Crigler-Najjar
+Gejala yang muncul pada penderita sindrom Crigler-Najjar antara lain:Warna kuning pada kulit dan bagian putih mata (ikterus), yang muncul beberapa hari setelah kelahiran, dan memburuk seiring waktu
+Kebingungan dan perubahan pada pola pikirLetargi, atau lelah secara fisik dan mental
+Tidak nafsu makan
+MuntahPenyebab Sindrom Crigler-Najjar
+Sindrom Crigler-Najjar disebabkan oleh mutasi pada gen UGT1A1. Gen UGT1A1 berperan dalam menghasilkan enzim bilirubin UGT, yaitu enzim yang berfungsi untuk merubah bilirubin indirek menjadi bilirubin direk. Reaksi ini membuat bilirubin menjadi mudah larut di dalam air, sehingga dapat dibuang oleh tubuh. Mutasi gen UGT1A1 menyebabkan penurunan fungsi enzim bilirubin UGT (sindrom Crigler-Najjar tipe 2) atau tidak aktif sama sekali (sindrom Crigler-Najjar tipe 1). Pada sindrom Crigler-Najjar tipe 2, fungsi enzim bilirubin UGT hanya tinggal sekitar 20 persen. Kedua kondisi tersebut menyebabkan bilirubin indirek tidak dapat dirubah menjadi bilirubin direk, sehingga bilirubin indirek menumpuk dalam darah dan menimbulkan penyakit kuning.
+Sindrom Crigler-Najjar adalah penyakit autosomal resesif. Dengan kata lain, seseorang dapat menderita penyakit ini, bila mutasi gen UGT1A1 terjadi pada kedua orang tuanya. Adapun bila mutasi gen yang diturunkan hanya dari salah satu orang tua, seseorang dapat mengalami sindrom Gilbert, suatu kondisi yang lebih ringan dari sindrom Crigler-Najjar.
+Diagnosis Sindrom Crigler-Najjar
+Dokter dapat menduga pasien menderita sindrom Crigler-Najjar, bila terdapat sejumlah gejala yang telah dijelaskan sebelumnya. Namun untuk memastikannya, dokter dapat menjalankan sejumlah pemeriksaan seperti:
+Pengukuran kadar bilirubin
+Pengukuran kadar bilirubin dilakukan dengan mengambil sampel darah pasien, untuk diperiksa di laboratorium. Pada sindrom Crigler-Najjar tipe 1, kadar bilirubin berada pada kisaran 20-50 mg/dL. Sedangkan kadar bilirubin pada sindrom Crigler-Najjar tipe 2 berkisar antara 7-20 mg/dL.
+Pemeriksaan fungsi hati
+Pada penderita sindrom Crigler-Najjar, umumnya kadar enzim hati yang diperiksa saat uji fungsi hati, berada pada kisaran normal. Tetapi pada beberapa kasus, kadar enzim hati dapat meningkat disebabkan kolestasis intrahepatik, yaitu kondisi terhambatnya aliran empedu di dalam hati.
+Pengobatan Sindrom Crigler-Najjar
+Pengobatan sindrom Crigler-Najjar tergantung kepada tipe yang diderita, seperti yang akan dijelaskan di bawah ini:
+Pengobatan sindrom Crigler-Najjar tipe 1
+Langkah pertama yang dilakukan dokter adalah pencegahan kernikterus, yaitu dengan beberapa cara berikut:
+- Fototerapi sinar biru. Fototerapi merupakan tindakan menyinari seluruh tubuh dengan cahaya biru. Fototerapi harus dilakukan dalam jangka panjang, agar bilirubin dapat lebih mudah dibuang melalui urine.
+- Pemberian kalsium fosfat. Kalsium fosfat berguna membantu pembuangan bilirubin.
+- Transfusi tukar. Transfusi tukar adalah prosedur penggantian darah bayi dengan darah segar dari pendonor. Prosedur ini dapat dilakukan hingga beberapa kali.
+Metode lain yang dilakukan adalah transplantasi organ hati. Pada beberapa kasus, dokter akan menganjurkan transplantasi hati dilakukan, guna menghindari terjadinya komplikasi.
+Pengobatan sindrom Crigler-Najjar tipe 2
+Penderita sindrom Crigler-Najjar tipe 2 dapat membaik dengan sendirinya tanpa harus diobati. Akan tetapi dokter dapat memberikan obat phenobarbital untuk menurunkan kadar bilirubin sebanyak 25 persen, dalam 2-3 pekan. Pada kasus yang jarang terjadi, beberapa pasien sindrom Crigler-Najjar tipe 2 juga bisa memerlukan transfusi tukar dan fototerapi.
