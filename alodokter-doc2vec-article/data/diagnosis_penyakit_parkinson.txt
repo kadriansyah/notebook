@@ -1,5 +1,0 @@
-Diagnosis Penyakit Parkinson
-Dokter dapat menduga pasien menderita penyakit Parkinson, bila terdapat sejumlah gejala yang telah dijelaskan sebelumnya, dan juga terdapat riwayat penyakit yang sama pada keluarga pasien. Pemeriksaan fisik juga mungkin dilakukan untuk memperkuat diagnosis, yaitu dengan meminta pasien berjalan.
-Sampai saat ini belum ada metode pemeriksaan yang dapat memastikan diagnosis penyakit Parkinson. Namun demikian, dokter dapat menjalankan sejumlah tes guna menyingkirkan kemungkinan gejala yang dialami pasien disebabkan oleh penyakit lain, yaitu:Uji pencitraan, seperti MRI, CT scan dan PET scan.
-Tes Darah.
-SPECT (single photon emission computed tomography).

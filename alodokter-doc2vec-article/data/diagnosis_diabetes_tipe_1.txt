@@ -1,8 +1,0 @@
-Diagnosis Diabetes Tipe 1
-Untuk mendiagnosis diabetes pada pasien, dokter akan menjalankan tes hemoglobin A1C (HbA1C). Tes HbA1C dilakukan untuk mengukur kadar rata-rata gula darah pasien dalam 2-3 bulan terakhir. Bila hasil tes HbA1C menunjukkan angka 6,5 atau lebih tinggi, tandanya pasien mengalami diabetes.
-Bila pasien sedang dalam kondisi yang dapat memengaruhi hasil tes HbA1C, misalnya dalam masa kehamilan, dokter akan menjalankan tes lain, seperti:
-Tes gula darah puasa
-Dalam tes ini, dokter akan meminta pasien berpuasa semalam, sebelum sampel darah diambil dan diperiksa di laboratorium. Kadar gula pasien dinilai normal bila kurang dari 100 mg/dL. Sedangkan bila kadar gula darah dalam kisaran 100-125 mg/dL, artinya pasien dalam kondisi pradiabetes. Pasien baru akan didiagnosis diabetes bila kadar gula darah 126 mg/dL atau lebih.
-Tes gula darah sewaktu
-Sampel darah pasien akan diambil kapan saja, tanpa memerhatikan kapan terakhir kali pasien makan. Hasil tes darah yang menunjukkan 200 mg/dL atau lebih, artinya pasien mengalami diabetes. Dokter mungkin akan mengulang tes untuk memastikan hasilnya.
-Pada pasien yang didiagnosis diabetes, dokter dapat menjalankan tes antibodi, guna memastikan apakah dia menderita diabetes tipe 1 atau diabetes tipe 2. Selain tes antibodi, terdeteksinya keton pada tes urine lebih dicurigai menderita diabetes tipe 1 dibanding diabetes tipe 2.

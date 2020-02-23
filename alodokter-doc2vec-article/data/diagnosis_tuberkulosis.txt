@@ -1,7 +1,0 @@
-Diagnosis Tuberkulosis
-Untuk mendeteksi TBC (tuberkulosis), pertama-tama dokter akan menanyakan keluhan dan penyakit yang pernah diderita. Kemudian dokter akan melakukan pemeriksaan fisik, terutama dengan mendengarkan suara napas di paru-paru menggunakan stetoskop. Dokter juga akan memeriksa ada tidaknya pembesaran kelenjar, bila dicurigai adanya TBC kelenjar.
-Jika pasien diduga mengalami TBC, dokter akan meminta pasien melakukan pemeriksaan dahak yang disebut pemeriksaan BTA. Pemeriksaan BTA juga dapat dilakukan menggunakan sampel selain dahak, untuk kasus TBC yang terjadi bukan di paru-paru.
-Jika dokter membutuhkan hasil yang lebih spesifik, dokter akan menganjurkan pemeriksaan kultur BTA, yang juga menggunakan sampel dahak penderita. Tes kultur BTA dapat mengetahui efektif atau tidaknya obat TBC yang akan digunakan dalam membunuh kuman. Namun, tes ini memakan waktu yang lebih lama.
-Selain pemeriksaan BTA, dokter dapat melakukan serangkaian pemeriksaan lain sebagai pendukung diagnosis, meliputi:Foto Rontgen
-CT scan
-Tes kulit Mantoux atau Tuberculin skin testTes Darah IGRA (interferon gamma release assay).

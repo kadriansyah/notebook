@@ -1,6 +1,0 @@
-Pengobatan Malaria
-Pengobatan malaria dilakukan dengan pemberian obat antimalaria untuk membunuh parasit. Jenis dan jangka waktu pemberian obat tergantung kepada jenis parasit yang menyerang, tingkat keparahan gejala, serta kondisi pasien.
-Untuk menangani malaria yang disebabkan oleh Plasmodium falciparum, organisasi kesehatan dunia (WHO) membuat suatu regimen kombinasi obat yang disebut dengan artemisin-based combination therapies (ACT). Kombinasi obat tersebut adalah:Kombinasi obat artemether dan lumefantrineKombinasi artesunate dan amodiaquineKombinasi dihydroartemisinin dan piperaquineKombinasi artesunate, sulfadoxine, dan pyrimethamine
-Obat ini diberikan setidaknya selama 3 hari pada penderita dewasa maupun anak-anak. Sementara untuk wanita hamil pada trimester pertama, maka obat yang diberikan adalah pil kina ditambah clindamycin selama 7 hari.
-Untuk penanganan malaria karena infeksi Plasmodium vivax, dapat diberikan kombinasi obat ACT atau obat chloroquine. Selain itu, guna mencegah kekambuhan malaria jenis ini, dokter dapat menambahkan obat primaquine.
-Untuk malaria yang parah, penderita akan dirawat di rumah sakit dan diberikan obat melalui suntikan, setidaknya selama 24 jam pertama. Selanjutnya, obat dapat diganti menjadi tablet.
